@@ -6,7 +6,9 @@ O Elon Musk vai erguer no Texas a TeraFab: mais de 100 milhões de pés quadrado
 cinco vezes o maior prédio de hoje. O motivo: segundo o Musk, todas as fábricas de chip do mundo
 entregam só uns 2% do que as empresas dele vão precisar. A meta é chegar a até 200 bilhões de chips por ano.
 
-- Vídeos (MP4): ver a release `video-v1.0.0`.
+- YouTube (16:9): https://www.youtube.com/watch?v=Aio7Lw4L_bM
+- YouTube Short (9:16): https://www.youtube.com/watch?v=36UQyawSwSY
+- MP4 16:9 e 9:16: release `video-v1.0.0`.
 - Cursos gratuitos de IA: https://inema.club
 
 ## Fatos e fontes (conferidos em 11/10/2026)
